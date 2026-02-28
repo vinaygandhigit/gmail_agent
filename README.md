@@ -22,6 +22,7 @@ quoteflow_ai/
 ├── token.json          # Generated automatically after first login
 ├── requirements.txt    # Python dependencies
 └── README.md           # This file
+```
 
 ## Setup
 
@@ -44,10 +45,10 @@ quoteflow_ai/
 
 3. **Configure Google API (Gmail)**
 
-   1. Go to APIs & Services > Credentials in Google Cloud Console.
-   2. Create an OAuth 2.0 Client ID (Application Type: Desktop App).
-   3. Download the JSON file, rename it to credentials.json, and move it to the project root.
-   4. The first time you run the script, a browser tab will open. Log in with your Gmail account to generate token.json.
+   + Go to APIs & Services > Credentials in Google Cloud Console.
+   + Create an OAuth 2.0 Client ID (Application Type: Desktop App).
+   + Download the JSON file, rename it to credentials.json, and move it to the project root.
+   + The first time you run the script, a browser tab will open. Log in with your Gmail account to generate token.json.
 
 4. **Run the Project**
    ```bash
