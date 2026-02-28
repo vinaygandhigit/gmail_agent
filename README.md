@@ -56,19 +56,19 @@ quoteflow_ai/
 
 5. **Output**
 
-   1. Send an email to company asking for Quotation 
+   1. Send an email to company asking for Quotation<br/>
       <kbd>![Alt text](1R.jpg)<kbd>
 
-   2. Received an email in gmail inbox
+   2. Received an email in gmail inbox<br/>
       <kbd>![Alt text](2R.jpg)<kbd>
       
-   3. Get auto reply from company with quotation price
+   3. Get auto reply from company with quotation price<br/>
       <kbd>![Alt text](3R.jpg)<kbd>
       
-   4. Send another quotation email (non available product)
+   4. Send another quotation email (non available product)<br/>
       <kbd>![Alt text](4R.jpg)<kbd>
    
-   5. Get auto reply with quotation price and not available product remark
+   5. Get auto reply with quotation price and not available product remark<br/>
       <kbd>![Alt text](5R.jpg)<kbd>
 
 ## License
